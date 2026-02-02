@@ -53,6 +53,8 @@ a:hover {
 }
 
 img {
-    margin: 10px auto 20px;
-    display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
 }
